@@ -12,7 +12,7 @@ Hi! I am Sándor from Hungary. I am a 18 years old boy, who is studying at Balas
 - 2D Game: 2 dimensional game where you can fight against an enemy
 ## Competitions:
 - OKTV (a national competition organized by the goverment for 11th and 12th graders in different subject) (27th place in the final round in programming in 2026)
-- Nemes Tihamér Online Programozó Verseny Final Round (9th place in 2025, 5th place in 2026) (Nemes Tihamér Online Programozási Verseny
+- Nemes Tihamér Online Programozó Verseny (9th place in 2025, 5th place in 2026 both places in the final round) (Nemes Tihamér Online Programozási Verseny
 is organized by the Neumann János Számítógéptudományi Társaság and the Eötvös Loránd Tudományegyetem Informatikai
 Kara and is held in every school year)
 ## Future plans:
